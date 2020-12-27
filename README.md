@@ -12,6 +12,9 @@ Bezzera BB005 modifikation to setup your grinding Time via digital Timer based o
 - USB Power Supplie
 - Digital Relay
 
+## circuit diagram
+- see the file in sources: grinder-timer.png
+
 ## How to Setup the grinding Time (Servermode):
 1. Press the Button and hold it while powering on the Grinder - Now it shows you some Informations in the Display
 2. Via your MobilePhone, Notebook, etc. pp. you can conncet to the WLAN Gateway (Name: Grinder-Configuration) and then access a small Website via a Browser on your Device

@@ -1,5 +1,5 @@
 # bezzera-bb005-digital-timer based on ESP8266:
-Bezzera BB005 modifikation to setup your grinding Time via digital Timer based on Arduino Node32
+Bezzera BB005 modifikation to setup your grinding Time via digital Timer based on ESP8266
 
 ## This Modifikation features:
 - You can install this mod without any modifikation on the original Hardware

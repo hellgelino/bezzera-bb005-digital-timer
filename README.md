@@ -1,4 +1,4 @@
-# bezzera-bb005-digital-timer based on Arduino:
+# bezzera-bb005-digital-timer based on ESP8266:
 Bezzera BB005 modifikation to setup your grinding Time via digital Timer based on Arduino Node32
 
 ## This Modifikation features:
@@ -8,7 +8,7 @@ Bezzera BB005 modifikation to setup your grinding Time via digital Timer based o
 - Demo: https://youtu.be/tWOO4BNrsw0
 
 ## This Hardware is needed to run this Software
-- Arduino - we choose NodeMCU Amica Modul V2 ESP8266 ESP-12F WIFI Development Board with CP2102
+- Arduino - we choose NodeMCU Amica Modul V2 ESP8266 ESP-12F WIFI Development Board with CP2102 (AZ Delivery)
 - OLED Display - we choose 1,3" OLED Display I2C 128 x 64 Pixel I2C
 - USB Power Supplie - we choose MeanWell RS-15-5 Netzteilbaustein, 15 W, 5 V, 3 A
 - Digital Relay - we choose a 1-Channel-Relay-Modul, 5V, with Optocoupler, High and Low Level Trigger, for Arduino

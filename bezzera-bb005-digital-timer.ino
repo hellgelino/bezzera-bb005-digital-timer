@@ -1,7 +1,7 @@
 
 /********************************************************
  * 
- * bezzera-bb005-digital-timer based on Arduino
+ * bezzera-bb005-digital-timer based on ESP8266
  *   
  *****************************************************/
 

@@ -25,8 +25,7 @@ Bezzera BB005 modifikation to setup your grinding Time via digital Timer based o
 Feel free to optimize your own Branch of this Code, we will not Change this one.
 
 # Special Thanks
-To the great work Joerky!
-  
+to the great work Joerky!
 !! Thank you so much for the tasty cup of coffee I enjoy each day !!  
 
 

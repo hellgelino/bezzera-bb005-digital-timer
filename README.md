@@ -5,6 +5,7 @@ Bezzera BB005 modifikation to setup your grinding Time via digital Timer based o
 - You can install this mod without any modifikation on the original Hardware
 - Get 1 or 2 Cups in a difinded time grinded and be able to abort the grinding
 - Define your time for each Cup via a Standalone WLAN in extra Servermode
+- Demo: https://youtu.be/tWOO4BNrsw0
 
 ## This Hardware is needed to run this Software
 - Arduino - we choose NodeMCU Amica Modul V2 ESP8266 ESP-12F WIFI Development Board with CP2102

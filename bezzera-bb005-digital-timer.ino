@@ -253,9 +253,9 @@ void grind(int millisec, int cups) {
     {
       doreset();
       u8g2.setFont(u8g2_font_8x13B_tf);
-      u8g2.drawStr(40,40,"STOP!!!");
+      u8g2.drawStr(40,40,"Aborted!!!");
       u8g2.sendBuffer(); 
-      delay(5000);
+      delay(2500);
       return;
     }
                 

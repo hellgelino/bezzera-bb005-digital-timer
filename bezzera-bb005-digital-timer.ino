@@ -423,7 +423,7 @@ void handleForm() {
   writeEprom(cup1, 0);
   writeEprom(cup2, 100);
   EEPROM.commit();    //Store data to EEPROM
-
+  EEPROM.end();
   server.send_P(200, "text/html", ACTION_page, sizeof(ACTION_page) ); //Send web page
 
 }

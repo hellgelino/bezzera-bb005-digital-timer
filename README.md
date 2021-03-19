@@ -12,6 +12,7 @@ Bezzera BB005 modifikation to setup your grinding Time via digital Timer based o
 - OLED Display - we choose 1,3" OLED Display I2C 128 x 64 Pixel I2C
 - USB Power Supplie - we choose MeanWell RS-15-5 Netzteilbaustein, 15 W, 5 V, 3 A
 - Digital Relay - we choose a 1-Channel-Relay-Modul, 5V, with Optocoupler, High and Low Level Trigger, for Arduino
+- little help maybe: https://www.carto.net/andre.mw/photos/thematic/household/bezzera_macinino_bb005/
 
 ## circuit diagram
 - see the file in sources: grinder-timer.png
